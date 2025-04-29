@@ -15,10 +15,6 @@ This project is a sample yet effective fall detection system using an MPU6050 ac
 - Active Buzzer
 - Jumper wires (Male to female)
 
-## Circuit diagram 
-
-![Circuit Diagram](images/circuit_diagram.png)
-
 ## Setup Instructions
 
 1. Connect the components as per the circuit diagram.
